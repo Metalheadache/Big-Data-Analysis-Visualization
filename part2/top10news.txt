@@ -1,0 +1,10 @@
+health
+healthcare
+life
+mental
+cancer
+medicine
+cancer
+social
+fever
+death
